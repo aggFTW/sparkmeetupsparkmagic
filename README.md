@@ -1,0 +1,1 @@
+Go to the [sparkmagic repo](https://github.com/jupyter-incubator/sparkmagic) for instructions on how to set up the Spark kernels.
